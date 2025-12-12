@@ -54,34 +54,6 @@ Socket.IO Server
 JWT Authentication
 REST APIs
 
-📂 Project Structure
-
-messaging-app-fullstack/
-│
-├── backend/
-│   ├── models/
-│   │   ├── user.js
-│   │   ├── conversation.js
-│   │   └── message.js
-│   ├── routes/
-│   │   ├── authRoutes.js
-│   │   ├── convoRoutes.js
-│   │   └── messageRoutes.js
-│   ├── controllers/
-│   ├── server.js
-│   └── socket.io logic
-│
-└── frontend/
-    ├── src/
-    │   ├── Chat.jsx
-    │   ├── Login.jsx
-    │   ├── SignUp.jsx
-    │   ├── main.jsx
-    │   └── styles
-    ├── package.json
-    └── Vite config
-
-
 🤝 Future Improvements
 
 Typing Indicator
