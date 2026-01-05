@@ -11,7 +11,7 @@ A full-stack messaging application built with MongoDB, Express, React, Node.js, 
 
 This project follows the architecture of professional chat apps like WhatsApp Web and Messenger.
 
-⭐ Features
+# ⭐ Features
 
 🔐 Authentication
 -User Signup
@@ -36,7 +36,7 @@ Create new conversation with any user
 -Messages broadcast instantly to both users
 -No page refresh required
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend
 
@@ -54,7 +54,7 @@ Socket.IO Server
 JWT Authentication
 REST APIs
 
-🤝 Future Improvements
+# Future Improvements
 
 Typing Indicator
 Online/offline status
