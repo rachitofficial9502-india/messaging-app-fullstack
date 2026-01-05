@@ -41,29 +41,47 @@ Create new conversation with any user
 Frontend
 
 React + Vite
+
 Socket.IO Client
+
 useState, useEffect for UI state
+
 LocalStorage for authentication
+
 Clean and simple layout
 
 Backend
 
 Node.js + Express.js
+
 MongoDB + Mongoose
+
 Socket.IO Server
+
 JWT Authentication
+
 REST APIs
+
+# Demo Video
+
+https://youtu.be/MOcpC2q4g_M?si=8hPefC_Rx_wCtRqx
 
 # Future Improvements
 
 Typing Indicator
+
 Online/offline status
+
 Read receipts (double ticks)
+
 Last message preview in sidebar
+
 Group chats
+
 Message deletion
+
 Profile pictures
-Pagination for chat history
+
 
 Rachit Garg
 Backend Developer | Full-stack Learner | System Design Explorer
